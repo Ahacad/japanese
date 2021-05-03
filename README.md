@@ -1,0 +1,6 @@
+
+
+| kana | pronounciation | meaning | examples |
+| ---  | ---            | ---     | ---      |
+|      |                |         |          |
+|      |                |         |          |
